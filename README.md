@@ -14,8 +14,6 @@ by Josiah Rhys Jacobson prompting Claude Haiku eg. "Scan all repos. Assuming the
 9. **Refresh-2025** – Display tech testing (FreeSync/G-Sync)
 10. **Runblade Engine** – Game engine infrastructure
 
----
-
 ## 10 Recombinatorial Ideas:
 
 ### 1. **Temporal Chromatic Fatigue Mapper**
@@ -77,7 +75,5 @@ Combine: *Digital Nomad Time* + *Leonardo AI Flow* + *Friston Fog* + *Color Gamu
 - Profile knowledge worker by: timezone movement patterns, peak cognitive windows, optimal UI aesthetics, predictive model load thresholds
 - Dynamically generate personalized LLM system prompts that match mental state + location context
 - Tracks "archive" of past productive states → learns which nomadic patterns maximize creative output
-
----
 
 Each idea **links multidimensional sensing** (time, perception, cognition, media authenticity, culture) with **adaptive AI curation**, positioning you at the intersection of neuroscience, distributed work, and synthetic media trustworthiness.
